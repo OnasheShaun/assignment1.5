@@ -73,7 +73,7 @@ git push -u origin main
 This command uploads the local commits to GitHub and configures the upstream branch for future pushes.
 
 
-![alt text](<athol push.png>)
+![alt text](image.png)
 
 
 
@@ -95,7 +95,7 @@ git push
 - `git commit -m "Add about page"` creates the second commit.
 - `git push` uploads the changes to GitHub.
 
-![alt text](<git commit 2.png>)
+![alt text](image-1.png)
 
 
 
